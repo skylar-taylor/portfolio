@@ -1,2 +1,3 @@
 # Sky Taylor - Data Analysis Portfolio
-Repository for my portfolio
+
+[LinkedIn](https://www.linkedin.com/in/skylar-j-taylor/)
