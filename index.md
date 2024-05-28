@@ -53,3 +53,26 @@ A Bayesian correlation analysis was conducted between total BDI score and intero
 [Documentation](https://skylar-taylor.github.io/study-projects/programming_for_experiments/documentation.html)
 
 A semantics task was created in PsychoPy to investigate the identification of word pairs that match based on a specific feature (high or low semantic association, colour, size, texture, or shape). Documentation is provided to install and run the experiment.
+
+## An Adventure in Statistics
+*Winter 2023*
+### The Linear Model
+[Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/an_adventure_in_statistics/the_linear_model.qmd)
+ | 
+[Writeup](https://skylar-taylor.github.io/study-projects/an_adventure_in_statistics/the_linear_model.html)
+
+A linear model was fit, predicting stress from anxiety and engagement. Model fit statistics were evaluated, parameter estimates were calculated, and the assumptions of the linear model were checked. Following this, robust parameter estimates were calculated and a Bayesian model was assessed to investigate any differences from the Frequentist approach.
+
+### The Linear Model
+[Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/an_adventure_in_statistics/moderation.qmd)
+ | 
+[Writeup](https://skylar-taylor.github.io/study-projects/an_adventure_in_statistics/moderation.html)
+
+A linear model was fit to assess whether stress was predicted by participants' intervention programme and if this effect is moderated by job role. Orthogonal contrast coding was utilised to meet the requirement of independence of predictor contrasts for the use of Type III sums of squares. Model fit statistics and parameter estimates were evaluated. Simple effects analysis was used to investigate the effect of the predictor (programme) at individual levels of the moderator (role). Assumptions of the linear model and influential cases were checked and a robust linear model was fit. 
+
+### Multi Level Model
+[Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/an_adventure_in_statistics/multi_level_model.qmd)
+ | 
+[Writeup](https://skylar-taylor.github.io/study-projects/an_adventure_in_statistics/multi_level_model.html)
+
+The relationship between stress and intervention programme, adjusting for burnout, was assessed over time using a multilevel model. Fixed and random effects models were fit and compared hierarchically and model parameters of the final model were assessed.
