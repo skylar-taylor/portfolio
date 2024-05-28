@@ -7,35 +7,38 @@ Highly motivated Psychology graduate (First Class Honours) from the University o
 
 # Psychological Methods MRes Projects:
 ## Advanced Statistics
+*Spring 2024*
 ### Mediation
 [Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/advanced_statistics/mediation.qmd)
-
+ | 
 [Writeup](https://skylar-taylor.github.io/study-projects/advanced_statistics/mediation.html)
 
 ### Factor Analysis
 [Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/advanced_statistics/factor_analysis.qmd)
-
+ | 
 [Writeup](https://skylar-taylor.github.io/study-projects/advanced_statistics/factor_analysis.html)
 
 ### Meta-Analysis
 [Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/advanced_statistics/meta_analysis.qmd)
-
+ | 
 [Writeup](https://skylar-taylor.github.io/study-projects/advanced_statistics/meta_analysis.pdf)
 
 ## Bayesian Statistics
+*Spring 2024*
 ### Distributions
 [Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/bayesian_statistics/distributions.qmd)
-
+ | 
 [Writeup](https://skylar-taylor.github.io/study-projects/bayesian_statistics/distributions.html)
 
 ### Bayesain Models
 [Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/bayesian_statistics/bayesian_models.qmd)
-
+ | 
 [Writeup](https://skylar-taylor.github.io/study-projects/bayesian_statistics/bayesian_models.html)
 
 ## Programming For Experiments
+*Spring 2024*
 ### Semantics Task in PyschoPy
 [Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/programming_for_experiments/semantics_task.py)
-
+ | 
 [Documentation](https://skylar-taylor.github.io/study-projects/programming_for_experiments/documentation.html)
 
