@@ -16,3 +16,8 @@ Highly motivated Psychology graduate (First Class Honours) from the University o
 [Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/advanced_statistics/factor_analysis.qmd)
 
 [Writeup](https://skylar-taylor.github.io/study-projects/docs/advanced_statistics/factor_analysis.html)
+
+### Meta-Analysis
+[Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/advanced_statistics/meta_analysis.qmd)
+
+[Writeup](https://skylar-taylor.github.io/study-projects/advanced_statistics/meta_analysis.pdf)
