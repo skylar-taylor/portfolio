@@ -1,5 +1,5 @@
 ---
-title: Skyl Taylor - Data Analysis Portfolio
+title: Sky Taylor - Data Analysis Portfolio
 ---
 
 # About
