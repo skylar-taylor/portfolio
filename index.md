@@ -63,7 +63,7 @@ A semantics task was created in PsychoPy to investigate the identification of wo
 
 A linear model was fit, predicting stress from anxiety and engagement. Model fit statistics were evaluated, parameter estimates were calculated, and the assumptions of the linear model were checked. Following this, robust parameter estimates were calculated and a Bayesian model was assessed to investigate any differences from the Frequentist approach.
 
-### The Linear Model
+### Moderation
 [Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/an_adventure_in_statistics/moderation.qmd)
  | 
 [Writeup](https://skylar-taylor.github.io/study-projects/an_adventure_in_statistics/moderation.html)
