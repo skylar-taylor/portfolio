@@ -3,7 +3,7 @@ title: Sky Taylor - Data Analysis Portfolio
 ---
 
 # About
-Highly motivated Psychology graduate (First Class Honours) from the University of Sussex with a keen interest for combining my psychological insights with data analysis. Recently presented a poster about my dissertation research project at the Researchers of Statistics Education (RoSE) 2023 Conference. Interned at the data analytics company Datacove over the summer, using the programming language R. Currently studying a Master of Research in Psychological Methods at the University of Sussex.
+Highly motivated Psychology graduate (First Class Honours) from the University of Sussex with a keen interest for combining my psychological insights with data analysis. Last summer I presented a poster about my dissertation research project at the Researchers of Statistics Education (RoSE) 2023 Conference and interned at the data analytics company Datacove, using the programming language R. Currently studying a Master of Research in Psychological Methods at the University of Sussex.
 
 # Psychological Methods MRes Projects:
 ## Advanced Statistics
@@ -80,6 +80,7 @@ The relationship between stress and intervention programme, adjusting for burnou
 # SMARVUS projects
 ## Latent Profile Analysis: What combinations of self-efficacy levels, persistence levels, statistics anxiety, and statistics grades exist?
 *Spring 2023*
+
 [Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/SMARVUS_projects/latent_profile_analysis.qmd)
  | 
 [Output](https://skylar-taylor.github.io/study-projects/SMARVUS_projects/latent_profile_analysis.html)
@@ -88,6 +89,7 @@ For my Psychology BSc dissertation I conducted a Latent Profile Analysis investi
 
 ## Equivalence Testing: How reliable are self-reported statistics grades?
 *Spring 2024*
+
 [Data Prep Code](https://github.com/skylar-taylor/stats-grades/blob/main/r_docs/data_prep.qmd)
  | 
 [Analysis Code](https://github.com/skylar-taylor/stats-grades/blob/main/r_docs/analysis.qmd)
