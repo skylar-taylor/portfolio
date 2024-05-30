@@ -76,3 +76,20 @@ A linear model was fit to assess whether stress was predicted by participants' i
 [Writeup](https://skylar-taylor.github.io/study-projects/an_adventure_in_statistics/multi_level_model.html)
 
 The relationship between stress and intervention programme, adjusting for burnout, was assessed over time using a multilevel model. Fixed and random effects models were fit and compared hierarchically and model parameters of the final model were assessed.
+
+# SMARVUS projects
+## Latent Profile Analysis: What combinations of self-efficacy levels, persistence levels, statistics anxiety, and statistics grades exist?
+*Spring 2023*
+[Code](https://github.com/skylar-taylor/study-projects/blob/main/docs/SMARVUS_projects/latent_profile_analysis.qmd)
+ | 
+[Output](https://skylar-taylor.github.io/study-projects/SMARVUS_projects/latent_profile_analysis.html)
+
+For my Psychology BSc dissertation I conducted a Latent Profile Analysis investigating profiles of self-efficacy, persistence, statistics anxiety, and statistics grades in the [SMARVUS dataset](https://osf.io/mhg94/). This project was pre-registered on the OSF and I presented the findings at the Researchers of Statistics Education (RoSE) 2023 Conference. The pre-registration and poster presentation are available [here](https://osf.io/p67f3/).
+
+## Equivalence Testing: How reliable are self-reported statistics grades?
+*Spring 2024*
+[Data Prep Code](https://github.com/skylar-taylor/stats-grades/blob/main/r_docs/data_prep.qmd)
+ | 
+[Analysis Code](https://github.com/skylar-taylor/stats-grades/blob/main/r_docs/analysis.qmd)
+
+On the Research Process module of the Psychological Methods MRes I utilised the [SMARVUS dataset](https://osf.io/mhg94/) to assess whether self-reported statistics grades were practically equivalent to the official grades from university records. This project involved conducting correlational, discrepancy, and equivalence analyses.
